@@ -7,4 +7,4 @@ def even(num):
 
 data = int(input('enter a number'))
 result = even(data)
-
+print('this is about even and odd problem')
